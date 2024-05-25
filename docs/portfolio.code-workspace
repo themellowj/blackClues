@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../blackClues"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blackClues"
+	}
+}
